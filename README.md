@@ -1,8 +1,8 @@
 # Experiment Java Applications Using Spring and Hibernate
 
-# Part a: Dependency Injection in Spring Using Java-Based Configuration
-# Part b: Hibernate Application for Student CRUD Operations
-# Part c: Transaction Management Using Spring and Hibernate
+## Part a: Dependency Injection in Spring Using Java-Based Configuration
+## Part b: Hibernate Application for Student CRUD Operations
+## Part c: Transaction Management Using Spring and Hibernate
 
 Transaction Management
 Part a: Dependency Injection in Spring Using Java-Based Configuration
